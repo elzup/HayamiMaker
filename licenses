@@ -1,0 +1,66 @@
+├─ @material-ui/core@4.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mui-org/material-ui
+│  ├─ licenseUrl: https://github.com/mui-org/material-ui/raw/master/LICENSE
+├─ @material-ui/icons@4.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mui-org/material-ui
+│  ├─ licenseUrl: https://github.com/mui-org/material-ui/raw/master/LICENSE
+├─ crypto-js@3.1.9-1
+│  ├─ licenses: MIT
+│  ├─ repository: http://github.com/brix/crypto-js
+│  ├─ licenseUrl: http://github.com/brix/crypto-js/raw/master/LICENSE
+├─ firebase@6.2.4
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/firebase/firebase-js-sdk
+│  ├─ licenseUrl: https://github.com/firebase/firebase-js-sdk
+├─ formik@1.5.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jaredpalmer/formik
+│  ├─ licenseUrl: https://github.com/jaredpalmer/formik/raw/master/LICENSE
+├─ lodash@4.17.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ licenseUrl: https://github.com/lodash/lodash/raw/master/LICENSE
+├─ moment@2.24.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/moment/moment
+│  ├─ licenseUrl: https://github.com/moment/moment/raw/master/LICENSE
+├─ react-dom@16.8.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ licenseUrl: https://github.com/facebook/react/raw/master/LICENSE
+├─ react-helmet@5.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nfl/react-helmet
+│  ├─ licenseUrl: https://github.com/nfl/react-helmet/raw/master/LICENSE
+├─ react-redux@7.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: github:reduxjs/react-redux
+│  ├─ licenseUrl: github:reduxjs/react-redux
+├─ react-router-dom@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ReactTraining/react-router
+│  ├─ licenseUrl: https://github.com/ReactTraining/react-router/raw/master/LICENSE
+├─ react@16.8.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ licenseUrl: https://github.com/facebook/react/raw/master/LICENSE
+├─ redux-persist@5.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rt2zz/redux-persist
+│  ├─ licenseUrl: https://github.com/rt2zz/redux-persist/raw/master/LICENSE
+├─ redux-thunk@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: github:reduxjs/redux-thunk
+│  ├─ licenseUrl: github:reduxjs/redux-thunk
+├─ redux@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: github:reduxjs/redux
+│  ├─ licenseUrl: github:reduxjs/redux
+└─ styled-components@4.3.2
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/styled-components/styled-components
+   ├─ licenseUrl: https://github.com/styled-components/styled-components
+
+Number of entries found: 16

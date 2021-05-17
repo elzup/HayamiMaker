@@ -1,0 +1,27 @@
+{
+  "projects": {
+    "default": "jutenmieruka",
+    "staging": "staging-hayamimaker"
+  },
+  "targets": {
+    "jutenmieruka": {
+      "hosting": {
+        "hayamimaker": [
+          "hayamimaker"
+        ]
+      },
+      "database": {
+        "production": [
+          "jutenmieruka"
+        ]
+      }
+    },
+    "staging-hayamimaker-82f73": {
+      "hosting": {
+        "hayamimaker": [
+          "staging-hayamimaker"
+        ]
+      }
+    }
+  }
+}
