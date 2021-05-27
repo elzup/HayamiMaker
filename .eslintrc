@@ -1,4 +1,4 @@
 {
-  "extends": ["nzap", "nzap/typescript", "nzap/react", "nzap/jest"],
+  "extends": ["nzap", "nzap/tsx", "nzap/jest"],
   "rules": {}
 }

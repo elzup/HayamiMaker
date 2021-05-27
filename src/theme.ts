@@ -5,10 +5,7 @@ import { createMuiTheme } from '@material-ui/core/styles'
 const theme = createMuiTheme({
   palette: {
     primary: green,
-    secondary: {
-      ...red,
-      main: '#f44336',
-    },
+    secondary: red,
   },
   props: {
     MuiButton: {

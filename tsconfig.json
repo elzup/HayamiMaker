@@ -2,7 +2,10 @@
   "main": "dist/index",
   "compilerOptions": {
     "target": "es5",
-    "lib": ["es7", "dom"],
+    "lib": [
+      "es7",
+      "dom"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -15,8 +18,13 @@
     "isolatedModules": true,
     "noEmit": true,
     "noImplicitAny": false,
-    "jsx": "preserve"
+    "jsx": "react-jsx",
+    "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
-  "exclude": ["functions"]
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "functions"
+  ]
 }

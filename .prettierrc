@@ -1,5 +1,5 @@
-useTabs: false
-tabWidth: 2
-singleQuote: true
-semi: false
-trailingComma: all
+{
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "es5"
+}
